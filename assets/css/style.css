@@ -61,17 +61,18 @@ float: left;
   text-align: center;
 }
 
-@media only screen and (max-width: 600px)
+@media only screen and (max-width: 600px) {
   .piano-footer {
     grid-template-columns: auto;
     background-color: #B8B8F3;
     padding: 10px 0;
     width: 100%;
   }
+}
 
-@media only screen and (max-width: 450px)
+@media only screen and (max-width: 450px) {
     .top-nav > a {
       padding: 14px 10px;
       font-size: 1.5rem;
-    }
-  
+  }
+}

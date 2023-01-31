@@ -1,0 +1,14 @@
+container {
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .piano-image img {
+    width: 100%;
+    height: auto;
+    margin: 1rem auto;
+  }

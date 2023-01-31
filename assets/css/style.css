@@ -19,7 +19,7 @@
 .top-nav > a {
   float: left;
   display: block;
-  color: #D7B8F3;
+  color: #7f7d82;
   font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
   text-align: center;
   padding: 14px 16px;
@@ -52,15 +52,25 @@ width: 100%;
 .piano-footer {
   display: grid;
   grid-template-columns: auto auto auto;
-  background-color: #B8B8F3;
+  background-color: #ceb391;
   padding: 10px;
 }
+
+.piano-footer a {
+  text-decoration: none;
+}
+
+.piano-footer a:hover {
+  text-decoration: underline;
+}
+
 .grid-column {
-  background-color: #D7B8F3;
-  border: 1px solid #c7a8e3;
+  background-color: #7ea4a7;
+  border: 1px solid #f0ac6c;
   padding: 1.5rem;
   font-size: 1.5rem;
   text-align: center;
+  
 }
 
 
@@ -68,7 +78,7 @@ width: 100%;
 @media only screen and (max-width: 600px) {
   .piano-footer {
     grid-template-columns: auto;
-    background-color: #B8B8F3;
+    background-color: #5f5f62;
     padding: 10px 0;
     width: 100%;
   }

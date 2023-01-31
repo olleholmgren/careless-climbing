@@ -52,7 +52,7 @@ width: 100%;
 .piano-footer {
   display: grid;
   grid-template-columns: auto auto auto;
-  background-color: #ceb391;
+  background-color: #75563E;
   padding: 10px;
 }
 
@@ -65,8 +65,8 @@ width: 100%;
 }
 
 .grid-column {
-  background-color: #7ea4a7;
-  border: 1px solid #f0ac6c;
+  background-color: #E7B986;
+  border: 1px solid black;
   padding: 1.5rem;
   font-size: 1.5rem;
   text-align: center;
@@ -78,7 +78,7 @@ width: 100%;
 @media only screen and (max-width: 600px) {
   .piano-footer {
     grid-template-columns: auto;
-    background-color: #5f5f62;
+    background-color: green;
     padding: 10px 0;
     width: 100%;
   }

@@ -1,5 +1,5 @@
 
-container {
+.container {
     max-width: 1140px;
     width: 100%;
     padding-right: 15px;
@@ -15,5 +15,37 @@ container {
   }
 
 .top-nav {
-    background-color: #2B2D42;
-}
+    background-color: black;
+    overflow: hidden;
+    font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+
+  }
+
+.top-nav > a {
+    float: left;
+    display: block;
+    color: #D7B8F3;
+    font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 2.2rem;
+  }
+
+.top-nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.main-heading {
+    float: left;
+    font-size: 3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+.main-info {
+    float: left;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2rem;
+  }

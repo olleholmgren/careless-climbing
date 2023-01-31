@@ -52,11 +52,14 @@ width: 100%;
 .piano-footer {
   display: grid;
   grid-template-columns: auto auto auto;
-  background-color: #75563E;
+  background-color: #645d58;
+  color: #f2c9a9;
   padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
 }
 
 .piano-footer a {
+  color: #f2c9a9;
   text-decoration: none;
 }
 
@@ -65,7 +68,7 @@ width: 100%;
 }
 
 .grid-column {
-  background-color: #E7B986;
+  background-color: #90806d;
   border: 1px solid black;
   padding: 1.5rem;
   font-size: 1.5rem;
@@ -73,12 +76,15 @@ width: 100%;
   
 }
 
+.form-section {
+  font-size: 50%;
+}
 
 
 @media only screen and (max-width: 600px) {
   .piano-footer {
     grid-template-columns: auto;
-    background-color: green;
+    background-color: #75563E;
     padding: 10px 0;
     width: 100%;
   }

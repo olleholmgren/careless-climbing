@@ -1,3 +1,4 @@
+
 container {
     max-width: 1140px;
     width: 100%;
@@ -7,8 +8,12 @@ container {
     margin-left: auto;
   }
 
-  .piano-image img {
+.piano-image img {
     width: 100%;
     height: auto;
     margin: 1rem auto;
   }
+
+.top-nav {
+    background-color: #2B2D42;
+}

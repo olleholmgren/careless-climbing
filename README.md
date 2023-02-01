@@ -25,10 +25,18 @@ From here you can reach all the pages within the website on clear links with bac
 Through the three pages, information is provided to the user with a consistent layout, three different images but with the exact same size will be very pleasant for the eye.
 In the modern days we tend to be stressed and busy with our everyday life. That is why this website will only provide with the clearest information and lets the user emphasise on the task that needs to get done - have someone tune their piano for them.
 
+
 - ### Home page
     - An easy-to-view, clear and simple section welcoming the user to this exquisite webpage.
+
+
 - ### About page
     - This page will let the user be aware of more details about the company and the history of the company.
+
+
+- ### Contact page
+    - A page with one single mission - to get the user in contact with the owner.
+    A simple html form for the user to sign up to get the needed service.
 
 
 

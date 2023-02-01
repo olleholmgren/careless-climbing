@@ -16,14 +16,22 @@ My aim is to communicate what piano playing is all about - life enjoyment in the
 
 ![Navigation bar](/assets/images/pianossi1.jpg)
 
-A solid dark piano color with easy accesible navigation
+A solid dark piano color with easy accesible navigation bar that is responsive to different screen sizes.
 
 From here you can reach all the pages within the website on clear links with background changing upon hovering over. Also a clear visible active indicator to show what page you are currently viewing.
 
 ## Main section
 
-An easy-to-view, clear and simple section with information that is consistent on each page of the website where the user will get all information needed by very simple and neat navigation.
+Through the three pages, information is provided to the user with a consistent layout, three different images but with the exact same size will be very pleasant for the eye.
 In the modern days we tend to be stressed and busy with our everyday life. That is why this website will only provide with the clearest information and lets the user emphasise on the task that needs to get done - have someone tune their piano for them.
+
+- ### Home page
+    - An easy-to-view, clear and simple section welcoming the user to this exquisite webpage.
+- ### About page
+    - This page will let the user be aware of more details about the company and the history of the company.
+
+
+
 
 ## Footer
 

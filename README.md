@@ -9,7 +9,7 @@ The main core for this website is a color palette with pure warmth and calmness 
 My aim is to communicate what piano playing is all about - life enjoyment in the sipmplest of ways.
 
 Mockup picture
-
+    <img src="../assets/images/piano2.jpg">
 Features
 
 Navigation bar

@@ -80,6 +80,11 @@ width: 100%;
   font-size: 50%;
 }
 
+.active {
+  background-color: #ddd;
+  color: black;
+}
+
 
 @media only screen and (max-width: 600px) {
   .piano-footer {

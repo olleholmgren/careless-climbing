@@ -1,15 +1,16 @@
 
 
-Pianossi
+# h1 Pianossi
+
 
 A website for a company that provides the service of piano tuning. It is all about simplicity and neatness.
 Pianossi encourages people with pianos at home to apply for a piano tuning session just with a simple form signup.
 
+![Mockup](../careless-climbing/assets/images/pianossi-mockup.png)
+
 The main core for this website is a color palette with pure warmth and calmness with easy-to-reach top navigation and footer.
 My aim is to communicate what piano playing is all about - life enjoyment in the sipmplest of ways.
 
-![Mockup picture]
-    <img src="../assets/images/piano2.jpg">
 
 ![Features]
 
@@ -36,3 +37,5 @@ My aim is to communicate what piano playing is all about - life enjoyment in the
     What has been very useful in my work is to go back and browse the study material and challenges that I have finished in HTML/CSS essentials modules. 
 
     I have learned one very IMPORTANT thing to remember since I started this course: Get going - and no matter what you do, keep on going.
+
+[def]: ../careless-climbing/assets/images/pianossi1.jpg

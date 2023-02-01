@@ -1,12 +1,12 @@
 
 
-# h1 Pianossi
+# Pianossi
 
 
 A website for a company that provides the service of piano tuning. It is all about simplicity and neatness.
 Pianossi encourages people with pianos at home to apply for a piano tuning session just with a simple form signup.
 
-![Mockup](../careless-climbing/assets/images/pianossi-mockup.png)
+![Mockup](/assets/images/pianossi-mockup.png)
 
 The main core for this website is a color palette with pure warmth and calmness with easy-to-reach top navigation and footer.
 My aim is to communicate what piano playing is all about - life enjoyment in the sipmplest of ways.

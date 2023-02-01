@@ -1,103 +1,103 @@
 .container {
-  max-width: 1140px;
-  width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
-  margin-right: auto;
-  margin-left: auto;
-}
-.piano-image img {
-  width: 100%;
-  height: auto;
-  margin: 1rem auto;
-}
-.top-nav {
-  background-color: black;
-  overflow: hidden;
-  font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
-}
-.top-nav > a {
-  float: left;
-  display: block;
-  color: #7f7d82;
-  font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 2.2rem;
-}
-.top-nav a:hover {
-  background-color: #FFFFF0;
-  color: black;
-}
-.main-info {
-  float: left;
-  font-size: 1.5rem;
-  font-family: Arial, Helvetica, sans-serif;
-  line-height: 2rem;
-  width: 100%;
-}
-.main-info h1 {
-font-family: 'Times New Roman', Times, serif;
-font-style: italic;
-font-size: 2.5rem;
-}
-.main-info p {
-font-family: Arial, Helvetica, sans-serif;
-font-size: 1.5rem;
-float: left;
-width: 100%;
-}
-
-.piano-footer {
-  display: grid;
-  grid-template-columns: auto auto auto;
-  background-color: #645d58;
-  color: #f2c9a9;
-  padding: 10px;
-  font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
-}
-
-.piano-footer a {
-  color: #f2c9a9;
-  text-decoration: none;
-}
-
-.piano-footer a:hover {
-  text-decoration: underline;
-}
-
-.grid-column {
-  background-color: #90806d;
-  border: 1px solid black;
-  padding: 1.5rem;
-  font-size: 1.5rem;
-  text-align: center;
-  
-}
-
-.form-section {
-  font-size: 50%;
-}
-
-.active {
-  background-color: #FFFFF0;
-  color: black;
-}
-
-
-@media only screen and (max-width: 600px) {
-  .piano-footer {
-    grid-template-columns: auto;
-    background-color: #75563E;
-    padding: 10px 0;
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  .piano-image img {
+    width: 100%;
+    height: auto;
+    margin: 1rem auto;
+  }
+  .top-nav {
+    background-color: black;
+    overflow: hidden;
+    font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+  }
+  .top-nav > a {
+    float: left;
+    display: block;
+    color: #7f7d82;
+    font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 2.2rem;
+  }
+  .top-nav a:hover {
+    background-color: #FFFFF0;
+    color: black;
+  }
+  .main-info {
+    float: left;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2rem;
     width: 100%;
   }
-}
-
-@media only screen and (max-width: 450px) {
-    .top-nav > a {
-      padding: 14px 10px;
-      font-size: 1.5rem;
+  .main-info h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-size: 2.5rem;
   }
-}
+  .main-info p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  float: left;
+  width: 100%;
+  }
+  
+  .piano-footer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #645d58;
+    color: #f2c9a9;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
+  }
+  
+  .piano-footer a {
+    color: #f2c9a9;
+    text-decoration: none;
+  }
+  
+  .piano-footer a:hover {
+    text-decoration: underline;
+  }
+  
+  .grid-column {
+    background-color: #90806d;
+    border: 1px solid black;
+    padding: 1.5rem;
+    font-size: 1.5rem;
+    text-align: center;
+    
+  }
+  
+  .form-section {
+    font-size: 50%;
+  }
+  
+  .active {
+    background-color: #FFFFF0;
+    color: black;
+  }
+  
+  
+  @media only screen and (max-width: 600px) {
+    .piano-footer {
+      grid-template-columns: auto;
+      background-color: #75563E;
+      padding: 10px 0;
+      width: 100%;
+    }
+  }
+  
+  @media only screen and (max-width: 450px) {
+      .top-nav > a {
+        padding: 14px 10px;
+        font-size: 1.5rem;
+    }
+  }

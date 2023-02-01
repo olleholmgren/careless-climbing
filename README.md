@@ -12,12 +12,12 @@ The main core for this website is a color palette with pure warmth and calmness 
 My aim is to communicate what piano playing is all about - life enjoyment in the sipmplest of ways.
 
 
-![Features]
+## Navigation
 
-![Navigation bar]
-    <img src="">
-    A solid dark piano color with easy accesible navigation
-    From here you can reach all the pages within the website on clear links with background changing upon hovering over.
+![Navigation bar](/assets/images/pianossi1.jpg)
+
+A solid dark piano color with easy accesible navigation
+From here you can reach all the pages within the website on clear links with background changing upon hovering over.
 
 ![Main info section]
     <img src="">

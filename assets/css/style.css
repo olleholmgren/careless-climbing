@@ -27,7 +27,7 @@
   font-size: 2.2rem;
 }
 .top-nav a:hover {
-  background-color: #ddd;
+  background-color: #FFFFF0;
   color: black;
 }
 .main-info {
@@ -81,7 +81,7 @@ width: 100%;
 }
 
 .active {
-  background-color: #ddd;
+  background-color: #FFFFF0;
   color: black;
 }
 

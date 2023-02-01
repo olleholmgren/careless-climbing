@@ -18,7 +18,7 @@ My aim is to communicate what piano playing is all about - life enjoyment in the
 
 A solid dark piano color with easy accesible navigation
 
-From here you can reach all the pages within the website on clear links with background changing upon hovering over.
+From here you can reach all the pages within the website on clear links with background changing upon hovering over. Also a clear visible active indicator to show what page you are currently viewing.
 
 ## Main section
 
@@ -38,3 +38,6 @@ For the media query part I have searched for the information on W3Schools Online
 What has been very useful in my work is to go back and browse the study material and challenges that I have finished in HTML/CSS essentials modules. 
 
 I have learned one very IMPORTANT thing to remember since I started this course: Get going - and no matter what you do, keep on going.
+
+## Validation
+

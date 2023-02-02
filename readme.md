@@ -93,9 +93,16 @@ Testing of the responsiveness has been done by opening the Google Dev Tools 'ins
 
 ![css-test-image](/assets/images/css-test.png)
 
-## Last few words
-On this first month with Code Institute I have learned one very IMPORTANT thing to always keep in mind:
+## Deployment
+In the end, I deployed my webpage to GitHub.com.
+- First, I made sure that I have made all my 'git add .' and 'git commit -s'.
+- Then I went over to my repository in GitHub, navigated to 'Settings' -> 'Pages'.
+- In 'Pages', under the 'Source' section I deployed my page from the 'main branch'.
 
+## Last few words
+A big, warm THANK YOU goes to my excellent mentor Spencer Bariball at Code Institute.
+
+On this first month with Code Institute I have learned one very IMPORTANT thing to always keep in mind:
 Get going - and no matter what you do, keep on coding...
 
 keep on coding...

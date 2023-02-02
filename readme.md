@@ -77,7 +77,7 @@ What has been very useful in my work is to go back and browse the study material
 
 Through the entire path of making this webpage, I have thoroughly tested all of the content in different ways, for example cmd+s in Gitpod then straight to the browser and press cmd+shft+r to see that all of my HTML code runs in the way i want to and CSS to give the correct styling.
 
-Testing of the responsiveness has been done by opening the 'inspect' function in the Chrome browser, and then dragged the side list in order to see that it is responsive in all preferred screen sizes.
+Testing of the responsiveness has been done by opening the Google Dev Tools 'inspect' function in the Chrome browser, and then dragged the side list in order to see that it is responsive in all preferred screen sizes.
 
 ## Validation
 

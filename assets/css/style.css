@@ -17,6 +17,7 @@ body {
 /* Navigation bar */
 .top-nav {
     background-color: black;
+    color: black;
     overflow-x: hidden;
     font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
 }
@@ -24,7 +25,7 @@ body {
 .top-nav > a {
     float: left;
     display: block;
-    color: #7f7d82;
+    color: #FFFFF0;
     font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
     text-align: center;
     padding: 14px 16px;
@@ -34,10 +35,10 @@ body {
 
 .top-nav a:hover {
     background-color: #FFFFF0;
-    color: rgb(207, 0, 0);
+    color: #fc0808;
 }
 
-.active {
+.top-nav .active {
     background-color: #FFFFF0;
     color: black;
 }

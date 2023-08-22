@@ -34,7 +34,7 @@ body {
 
 .top-nav a:hover {
     background-color: #FFFFF0;
-    color: black;
+    color: rgb(207, 0, 0);
 }
 
 .active {
@@ -76,13 +76,13 @@ body {
     display: grid;
     grid-template-columns: auto auto auto;
     background-color: #645d58;
-    color: #f2c9a9;
+    color: #FFFFF0;
     padding: 10px;
     font-family: 'Franklin Gothic Medium', 'Arial', Arial, sans-serif;
 }
   
 .piano-footer a {
-    color: #f2c9a9;
+    color: #FFFFF0;
     text-decoration: none;
 }
   
@@ -100,7 +100,10 @@ body {
 
 /* Form section */
 .form-section {
-    font-size: 50%;
+    font-size: 70%;
+    background-color: #787878;
+    color: #FFFFF0;
+    text-align: center;
 }
 
 /* Media queries */

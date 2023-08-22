@@ -1,8 +1,10 @@
 
+/* Set background color */
 body {
   background-color: rgb(220, 222, 180);
 }
 
+/* Main container */
 .container {
     max-width: 1140px;
     width: 95%;
@@ -12,12 +14,7 @@ body {
     margin-left: auto;
 }
 
-.piano-image img {
-    width: 100%;
-    height: auto;
-    margin: 1rem auto;
-}
-
+/* Navigation bar */
 .top-nav {
     background-color: black;
     overflow-x: hidden;
@@ -40,6 +37,19 @@ body {
     color: black;
 }
 
+.active {
+    background-color: #FFFFF0;
+    color: black;
+}
+
+/* Image */
+.piano-image img {
+    width: 100%;
+    height: auto;
+    margin: 1rem auto;
+}
+
+/* Information text area */
 .main-info {
     float: left;
     font-size: 1.5rem;
@@ -60,7 +70,8 @@ body {
   float: left;
   width: 100%;
 }
-  
+
+/* Footer */
 .piano-footer {
     display: grid;
     grid-template-columns: auto auto auto;
@@ -78,7 +89,7 @@ body {
 .piano-footer a:hover {
     text-decoration: underline;
 }
-  
+
 .grid-column {
     background-color: #90806d;
     border: 1px solid black;
@@ -87,15 +98,12 @@ body {
     text-align: center;
 }
 
+/* Form section */
 .form-section {
     font-size: 50%;
 }
-  
-.active {
-    background-color: #FFFFF0;
-    color: black;
-}
 
+/* Media queries */
 @media only screen and (max-width: 600px) {
   .piano-footer {
       grid-template-columns: auto;

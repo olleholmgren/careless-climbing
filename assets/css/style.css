@@ -1,7 +1,7 @@
 
 /* Set background color */
 body {
-  background-color: rgb(220, 222, 180);
+  background-color: #dcdeb4;
 }
 
 /* Main container */
@@ -45,8 +45,8 @@ body {
 
 /* Image */
 .piano-image img {
-    width: 100%;
     height: auto;
+    width: 100%;
     margin: 1rem auto;
 }
 

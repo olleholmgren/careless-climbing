@@ -27,6 +27,11 @@ Through the three pages, information is provided to the user with a consistent l
 
 In the modern days we tend to be stressed and busy with our everyday life. That is why this website will only provide with the clearest information and lets the user emphasise on the task that needs to get done - have someone tune their piano for them.
 
+### Design
+
+The design is supposed to give the feeling that one have come to a calm and relaxed platform. After all the purpose of the site is to provide service to piano owners. Many people associate calmness and simplicity with a piano - one press on a key and it will instantly play a sound, effortless.
+Color theme is chosen with this feeling in mind. The navigation bar with the same colors as the keys on a piano.
+Background is a calm greenish beige color and the footer along with the contact form is to match with these colors and feelings.
 
 ### Home page
 
@@ -37,6 +42,8 @@ An easy-to-view, clear and simple section welcoming the user to this exquisite w
 ### About page
 
 This page will let the user be aware of more details about the company and the history of the company.
+
+Here one can also see the red color that appears when hovering with the cursor over a certain button in the navigation bar.
 
 ![about-image](/assets/images/about-shot.png)
 
@@ -78,6 +85,20 @@ What has been very useful in my work is to go back and browse the study material
 Through the entire path of making this webpage, I have thoroughly tested all of the content in different ways, for example cmd+s in Gitpod then straight to the browser and press cmd+shft+r to see that all of my HTML code runs in the way i want to and CSS to give the correct styling.
 
 Testing of the responsiveness has been done by opening the Google Dev Tools 'inspect' function in the Chrome browser, and then dragged the side list in order to see that it is responsive in all preferred screen sizes.
+
+I have also used Chrome dev tools to carry out Lighthouse tests on each page with the results as below:
+
+### Index page Lighthouse test result
+
+![index-lighthouse-image](/assets/images/lighthouse-index.png)
+
+### About page Lighthouse test result
+
+![about-lighthouse-image](/assets/images/lighthouse-about.png)
+
+### Contact page Lighthouse test result
+
+![contact-lighthouse-image](/assets/images/lighthouse-contact.png)
 
 ## Validation
 
